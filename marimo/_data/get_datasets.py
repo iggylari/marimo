@@ -514,6 +514,7 @@ _STRING_TYPES = {
     "uuid",
     "guid",
     "nvarchar",
+    "inet",
 }
 _TIME_TYPES = {"time", "time with time zone", "timetz"}
 _DATETIME_TYPES = {"datetime", "interval"}
